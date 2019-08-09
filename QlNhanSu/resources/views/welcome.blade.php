@@ -64,6 +64,8 @@
         </style>
     </head>
     <body>
+        <a href="{{url('getlogout')}}">Đăng xuất</a>
         <h2 style="text-align: center;">Đăng nhập thành công</h2>
+
     </body>
 </html>
